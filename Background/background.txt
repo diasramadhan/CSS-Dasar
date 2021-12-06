@@ -1,0 +1,1 @@
+background: color url() position repeat;

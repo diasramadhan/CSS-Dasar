@@ -1,0 +1,24 @@
+font-family===
+nama font
+generic family
+
+font-size===
+px
+%
+em
+
+font-weight===
+lighter
+normal
+100-900
+bold
+bolder
+
+font-variant===
+normal
+small-caps
+
+font-style===
+normal
+italic
+oblique
